@@ -22,7 +22,7 @@ Movie object format:
 ```
 {
   id: 5,
-  title: 'Tombstone',
+  t itle: 'Tombstone',
   director: 'George P. Cosmatos',
   metascore: 89,
   stars: ['Kurt Russell', 'Bill Paxton', 'Sam Elliot'],
